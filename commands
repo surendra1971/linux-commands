@@ -48,3 +48,5 @@ whatis - Find what a command is used for
 top - View active processes live with their system usage
 useradd and usermod - Add new user or change existing users data
 passwd - Create or update passwords for existing users
+ps -ef command  --The ps command writes the status of active processes and if the -m flag is given, 
+    displays the associated kernel threads to standard output.

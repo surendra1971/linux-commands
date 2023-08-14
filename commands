@@ -49,4 +49,5 @@ top - View active processes live with their system usage
 useradd and usermod - Add new user or change existing users data
 passwd - Create or update passwords for existing users
 ps -ef command  --The ps command writes the status of active processes and if the -m flag is given, 
-    displays the associated kernel threads to standard output.
+displays the associated kernel threads to standard output.allows you to view information about the processes running on your Linux system. It stands for “process status”
+and it's a command that you can use from the command line to get information about the currently running processes
